@@ -143,10 +143,6 @@ namespace CrowderUniversity.Data
                     InstructorID = instructors.Single(i => i.LastName == "Wurster").ID
                     },
                 new CourseAssignment {
-                    CourseID = courses.Single(c => c.Title == "Chemistry" ).CourseID,
-                    InstructorID = instructors.Single(i => i.LastName == "Moreno").ID
-                    },
-                new CourseAssignment {
                     CourseID = courses.Single(c => c.Title == "Accounting" ).CourseID,
                     InstructorID = instructors.Single(i => i.LastName == "Vernon").ID
                     },
@@ -160,7 +156,7 @@ namespace CrowderUniversity.Data
                     },
                 new CourseAssignment {
                     CourseID = courses.Single(c => c.Title == "Trigonometry" ).CourseID,
-                    InstructorID = instructors.Single(i => i.LastName == "Barnmore").ID
+                    InstructorID = instructors.Single(i => i.LastName == "Gibbard").ID
                     },
                 new CourseAssignment {
                     CourseID = courses.Single(c => c.Title == "Composition" ).CourseID,
