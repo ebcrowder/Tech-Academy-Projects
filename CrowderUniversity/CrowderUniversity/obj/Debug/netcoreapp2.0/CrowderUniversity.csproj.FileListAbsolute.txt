@@ -1,0 +1,11 @@
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\bin\Debug\netcoreapp2.0\CrowderUniversity.deps.json
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\bin\Debug\netcoreapp2.0\CrowderUniversity.runtimeconfig.json
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\bin\Debug\netcoreapp2.0\CrowderUniversity.runtimeconfig.dev.json
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\bin\Debug\netcoreapp2.0\CrowderUniversity.dll
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\bin\Debug\netcoreapp2.0\CrowderUniversity.pdb
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\obj\Debug\netcoreapp2.0\CrowderUniversity.csprojResolveAssemblyReference.cache
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\obj\Debug\netcoreapp2.0\CrowderUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\obj\Debug\netcoreapp2.0\CrowderUniversity.AssemblyInfoInputs.cache
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\obj\Debug\netcoreapp2.0\CrowderUniversity.AssemblyInfo.cs
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\obj\Debug\netcoreapp2.0\CrowderUniversity.dll
+C:\Users\Eric\source\repos\CrowderUniversity\CrowderUniversity\obj\Debug\netcoreapp2.0\CrowderUniversity.pdb
